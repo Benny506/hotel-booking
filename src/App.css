@@ -1,0 +1,16 @@
+.invisible{
+  opacity: 0;
+}
+.visible{
+  opacity: 1;
+}
+.disable-all-click-events{
+  pointer-events: none;
+}
+.form-control:focus{
+  border-color: black !important;
+  box-shadow: 0 0 0 0.03rem black !important;
+}
+.vertical-spacing{
+  margin-top: 10%;
+}

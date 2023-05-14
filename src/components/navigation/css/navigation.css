@@ -1,0 +1,35 @@
+.nav-page{
+    background-color: #FDFFFC;
+}
+.nav-links{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #383A47;
+    list-style-type: none;
+    cursor: pointer;
+}
+.nav-links:hover{
+    color: #EB5148;
+}
+.nav-btn-text{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+}
+.nav-login-btn{
+    border: 1.5px solid #E8E9ED;
+    border-radius: 12px;
+    color: #EB5148;   
+}
+.nav-signup-btn{
+    color: #FFFFFF;
+    background: #EB5148;
+    border-radius: 12px; 
+    border: 0;   
+}
