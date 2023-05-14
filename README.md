@@ -1,5 +1,3 @@
-<img src="controlGenLogo.png" align="right" />
-
 # Hotels Booking
 
 A minimalistic hotel booking platform. Best for finding vacation sites
@@ -19,3 +17,9 @@ You may also see any lint errors in the console.
 ### Stacks used for this project
 
 Create-react-app. Docs here -> [https://create-react-app.dev/docs/getting-started/]
+
+### A Control Genesis Project
+
+Designed By Control Genesis
+
+<img src="controlGenLogo.png" align="center" />
